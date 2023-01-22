@@ -1,1 +1,1 @@
-# Spotify-Python
+# Machine Learning Music Recs-Python
